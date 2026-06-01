@@ -29,7 +29,7 @@ jobs:
       - name: Run Preprocessing
         run: |
           cd preprocessing
-          python automate_Dian.py
+          python automate_Dian-Atmoyo.py
 
       - name: Upload Processed Dataset
         uses: actions/upload-artifact@v4
