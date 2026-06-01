@@ -20,8 +20,7 @@ Dataset yang digunakan:
 ```text
 Eksperimen_SML_Dian-Atmoyo/
 │
-├── raw_data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │
 ├── preprocessing/
 │   ├── Eksperimen_Dian-Atmoyo.ipynb
