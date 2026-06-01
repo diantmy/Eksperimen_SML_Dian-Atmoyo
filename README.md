@@ -3,7 +3,6 @@
 ## Deskripsi Proyek
 
 Proyek ini merupakan bagian dari tugas Machine Learning Operations (MLOps) yang bertujuan untuk melakukan eksperimen dan otomatisasi preprocessing data menggunakan dataset IBM Telco Customer Churn.
-
 Dataset digunakan untuk memprediksi apakah pelanggan akan berhenti berlangganan (Churn) berdasarkan karakteristik pelanggan, layanan yang digunakan, serta informasi kontrak dan pembayaran.
 
 ## Dataset
